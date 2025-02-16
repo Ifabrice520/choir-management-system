@@ -1,0 +1,72 @@
+body, html {
+    background-color: rgba(234, 234, 234, 1);
+    font-family: 'Poppins', sans-serif;
+}
+
+.container {
+    width: 27%;
+    height: 85vh;
+    background-color: white;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+
+.container img {
+    width: 27%;
+    position: relative;
+    left: 37%;
+    top: 20px;
+}
+
+h4 {
+    position: relative;
+    top: 35px;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+p {
+    margin-top: 14%;
+    font-size: 14px;
+}
+
+.main {
+    margin-top: 10%;
+}
+
+label {
+    font-weight: 600;
+    font-size: 14px;
+}
+
+#pas {
+    margin-top: 5%;
+}
+
+a {
+    position: relative;
+    left: 40%;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 13px;
+}
+
+.form-check-input, .form-check-label {
+    margin-top: 20px;
+}
+
+.d-grid button {
+    background-color: rgba(29, 171, 129, 1);
+    color: white;
+    margin-top: 12px;
+}
+
+.d-grid button:hover {
+    background-color: rgba(29, 171, 129, 1);
+    color: white;
+}
+
+/* #account {
+    margin-bottom: 30px;
+    background-color: red;
+} */
