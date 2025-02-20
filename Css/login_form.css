@@ -3,6 +3,8 @@ body, html {
     font-family: 'Poppins', sans-serif;
 }
 
+/* container */
+
 .container {
     width: 27%;
     height: 85vh;
@@ -11,12 +13,16 @@ body, html {
     border-radius: 10px;
 }
 
+/* container img  */
+
 .container img {
     width: 27%;
     position: relative;
     left: 37%;
     top: 20px;
 }
+
+/* container header  */
 
 h4 {
     position: relative;
@@ -25,10 +31,14 @@ h4 {
     font-size: 20px;
 }
 
+/* container paragraph */
+
 p {
     margin-top: 14%;
     font-size: 14px;
 }
+
+/* form  */
 
 .main {
     margin-top: 10%;
@@ -59,6 +69,8 @@ input::placeholder {
     margin-top: 20px;
 }
 
+/* submit button  */
+
 .d-grid button {
     background-color: rgba(29, 171, 129, 1);
     color: white;
@@ -75,6 +87,8 @@ input::placeholder {
     position: relative;
     bottom: 25px;
 }
+
+/* register link  */
 
 #Register {
     position: relative;
